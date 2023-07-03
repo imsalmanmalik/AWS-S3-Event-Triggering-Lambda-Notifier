@@ -33,10 +33,10 @@ To set up and execute this project, run the shell script `s3-notification-trigge
 $ chmod +x ./s3-notification-triggers.sh
 $ ./s3-notification-triggers.sh
 ```
-Ensure that you have AWS CLI installed and configured with your AWS account credentials, and that you have jq installed for processing JSON data.
+Ensure that you have AWS CLI installed and configured with your AWS account credentials, and that you have 'jq' installed for processing JSON data.
 
 ## Screenshots
 Two screenshots have been added to this repository to show the functioning of this project.
 
-email_notification.png: This screenshot shows the email received when a new object was added to the S3 bucket.
-lambda_console.png: This screenshot shows the Lambda console with the function overview, displaying the trigger event with the S3 bucket.
+1. email_notification.png: This screenshot shows the email received when a new object was added to the S3 bucket.<b>
+2. lambda_console.png: This screenshot shows the Lambda console with the function overview, displaying the trigger event with the S3 bucket.<b>
