@@ -38,4 +38,9 @@ Ensure that you have AWS CLI installed and configured with your AWS account cred
 ## Screenshots
 Two screenshots have been added to this repository to show the functioning of this project.
 
+1. email_notification.png: This screenshot shows the email received when a new object was added to the S3 bucket<b>
+2. lambda_console.png: This screenshot shows the Lambda console with the function overview, displaying the trigger event with the S3 bucket.<b>
+
 ![This screenshot shows the Lambda console with the function overview, displaying the trigger event with the S3 bucket](https://github.com/imsalmanmalik/AWS-S3-Event-Triggered-Lambda-Notifier/assets/121328365/c163e67f-267f-46e4-ad34-fc0ca61a2840)
+
+<img width="1258" alt="Screenshot 2023-07-03 at 9 45 03 PM" src="https://github.com/imsalmanmalik/AWS-S3-Event-Triggered-Lambda-Notifier/assets/121328365/9a407010-0a54-49cd-bfac-e0629d9bb056">
